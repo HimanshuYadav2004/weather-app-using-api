@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/HimanshuYadav2004 /weather-app-using-api">
-    <img src="images/favicon.ico" alt="Logo" width="80" height="80">
+    <img src="favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Weather App 🌦️</h3>
