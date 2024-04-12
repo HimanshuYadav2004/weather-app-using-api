@@ -1,10 +1,22 @@
-<br/>
+<h1 align="center">Welcome to Weather App ⛅⛈️🌤️👋</h1>
 <p align="center">
-  <a href="https://github.com/HimanshuYadav2004 /weather-app-using-api">
-    <img src="favicon.ico" alt="Logo" width="80" height="80">
+  <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
+  <a href="https://www.npmjs.com/package/readme-md-generator">
+    <img alt="downloads" src="https://img.shields.io/npm/dm/readme-md-generator.svg?color=blue" target="_blank" />
   </a>
-
-  <h3 align="center">Weather App 🌦️</h3>
+  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
+  </a>
+  <a href="https://codecov.io/gh/kefranabg/readme-md-generator">
+    <img src="https://codecov.io/gh/kefranabg/readme-md-generator/branch/master/graph/badge.svg" />
+  </a>
+  <a href="https://github.com/frinyvonnick/gitmoji-changelog">
+    <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
+  </a>
+  <a href="https://twitter.com/FranckAbgrall">
+    <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social" target="_blank" />
+  </a>
+</p>
 
   <p align="center">
     The Weather App is a sleek and user-friendly application that brings you up-to-date weather information at your fingertips. With a seamless integration of weather APIs, this app offers real-time updates and forecasts to help you plan your day effectively. Here's what you can expect: 📍 Location-Based Weather And Temperatures 🌄
@@ -124,12 +136,8 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See [LICENSE](https://github.com/HimanshuYadav2004 /weather-app-using-api/blob/main/LICENSE.md) for more information.
 
-## Authors
+## Author
 
-* **Shaan Khan** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/) - *Built ReadME Template*
+* **Himanshu Yadav** - *Comp Sci Student* - [Himanshu Yadav](https://github.com/HimanshuYadav2004/) - 
 
-## Acknowledgements
 
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
