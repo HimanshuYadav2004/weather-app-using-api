@@ -24,7 +24,7 @@
     <br/>
    <div align='center'>
    <br>
-     <img align='center src"https://github.com/HimanshuYadav2004/weather-app-using-api/blob/main/img1">
+     <img src"https://github.com/HimanshuYadav2004/weather-app-using-api/blob/main/img1">
    <br>
 
 <h4> <span> · </span> <a href="https://github.com/HimanshuYadav2004/weather-app-using-api/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/HimanshuYadav2004/weather-app-using-api/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/HimanshuYadav2004/weather-app-using-api/issues"> Request Feature </a> </h4>
