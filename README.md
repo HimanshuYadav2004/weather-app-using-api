@@ -23,11 +23,8 @@
     <br/>
     <br/>
    <div align='center'>
-
-<img src=https://github.com/HimanshuYadav2004/weather-app-using-api/blob/main/drizzle.png alt="logo" width=50 height=50 />
-
-<h1>weather-app</h1>
-<p> The Weather App is a sleek and user-friendly application that brings you up-to-date weather information at your fingertips. With a seamless integration of weather APIs, this app offers real-time updates and forecasts to help you plan your day effectively. Here's what you can expect: 📍 Location-Based Weather And Temperatures 🌄</p>
+   <br>
+   <br>
 
 <h4> <span> · </span> <a href="https://github.com/HimanshuYadav2004/weather-app-using-api/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/HimanshuYadav2004/weather-app-using-api/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/HimanshuYadav2004/weather-app-using-api/issues"> Request Feature </a> </h4>
 
